@@ -1,0 +1,19 @@
+Introduction to Java
+
+Java is a general-purpose, object-oriented programming language originally developed at Sun Microsystems. It is designed around the idea of writing code once and running it on different platforms through the Java Virtual Machine (JVM).
+
+Java is strongly typed and commonly compiled into bytecode. The JVM executes this bytecode, which makes Java applications portable across operating systems that support a compatible JVM.
+
+A simple Java program:
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+
+Java provides automatic memory management through garbage collection. It also includes extensive standard libraries and is widely used for backend development, enterprise applications, Android-related development, distributed systems, and large-scale software.
+
+Important Java concepts include classes, objects, inheritance, interfaces, polymorphism, exceptions, collections, multithreading, and packages.
+
+Java is popular because it combines portability, readability, a large ecosystem, and strong support for large software projects.

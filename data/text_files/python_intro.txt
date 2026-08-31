@@ -1,0 +1,10 @@
+
+    Python is a popular, high-level, general-purpose programming language created by Guido van Rossum in 1991.
+    Why Learn PythonSimple Syntax: Reads like English, making it easy for beginners.
+    Versatile: Used in web development, data science, artificial intelligence, and automation.
+    Cross-Platform: Runs on Windows, Mac, and Linux.To get started quickly without installing anything, you can try running code directly in your browser using the Programiz Online Python Editor or download the official installer from the Python Official Website.
+    Watch this video for a quick tutorial on Python basics and writing your first program
+    Often, a program called "Hello, World!" is used to introduce a new programming language to beginners. A "Hello, World!" program is a simple program that outputs "Hello, World!" on the screen.
+
+    Since Python has very simple syntax, creating this program can be done in a single line: print("Hello, World!"). So instead, we are going to write a different program to add two numbers as our first program.
+    

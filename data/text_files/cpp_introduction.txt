@@ -1,0 +1,19 @@
+Introduction to C++
+
+C++ is a general-purpose programming language created by Bjarne Stroustrup. It began as an extension of the C programming language and has evolved into a powerful language used for software development, game development, competitive programming, embedded systems, operating systems, and high-performance applications.
+
+C++ supports multiple programming styles, including procedural, object-oriented, and generic programming. Important concepts include classes, objects, inheritance, polymorphism, templates, pointers, references, and the Standard Template Library (STL).
+
+A simple C++ program:
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Hello, World!";
+    return 0;
+}
+
+One major advantage of C++ is performance. It provides low-level control over memory while also offering high-level abstractions. Because of this combination, C++ remains widely used when speed and resource efficiency are important.
+
+C++ is an excellent language for learning programming fundamentals, data structures, algorithms, and object-oriented programming.
